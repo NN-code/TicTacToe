@@ -1,5 +1,5 @@
 # TicTacToe
-This is just a simple tictactoe
+This is just a simple tictactoe game
 
 # How to launch
 
